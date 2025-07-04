@@ -140,4 +140,4 @@ python predict.py --img_dir ../test_img --model_path checkpoints/20250517_001758
 
 
 ## 不明白之处可以联系一下我
-###wx: Crunk_crunk_crunk
+### wx: Crunk_crunk_crunk
